@@ -1,10 +1,12 @@
 
 
-
-p{
+ul>p{
     font-size: 24px;
 }
 
-ul ~ li{
+a[href="https://www.youtube.com/"] {
+    color: darkred;
+}
+a[href="https://validator.w3.org/"] {
     color: darkred;
 }
