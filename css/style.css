@@ -1,8 +1,10 @@
-div>li>ul{
-    color: rgb(255, 0, 0);
-}
+
 
 
 p{
     font-size: 24px;
+}
+
+ul ~ li{
+    color: darkred;
 }
